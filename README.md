@@ -9,3 +9,7 @@ just add a line like this:
 - name: YOURNAME
   url: A LINK TO SOMETHING
 ```
+
+I shouldn't have to say this but this repo is _satirical_.
+
+reference: [The New Yorker: Programmers Price](http://www.newyorker.com/magazine/2014/11/24/programmers-price)
