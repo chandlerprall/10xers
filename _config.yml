@@ -1,0 +1,13 @@
+# Site settings
+title: Official 10xers List
+email: talon@theghostin.me
+description: > # this means to ignore newlines until "baseurl:"
+  Official list of 10xer programmers expertly curated and 100% free. You're
+  welcome thought leaders.
+baseurl: "/10xers/" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: legittalon
+github_username: legittalon 
+
+# Build settings
+markdown: kramdown
